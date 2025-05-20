@@ -24,6 +24,8 @@ CREATE TABLE registros (
     eficiencia DECIMAL(5,2) NOT NULL
 );
 
+```
+
 ## 🚀 Como rodar o projeto
 
 ### 📦 Backend (Node.js + Express)
