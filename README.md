@@ -38,7 +38,7 @@ npm install
 
 2. Crie um arquivo .env dentro da pasta backend/ com as suas configurações:
 
-```env
+```bash
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
