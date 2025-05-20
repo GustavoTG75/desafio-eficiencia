@@ -23,7 +23,6 @@ CREATE TABLE registros (
     temperatura DECIMAL(5,2) NOT NULL,
     eficiencia DECIMAL(5,2) NOT NULL
 );
-
 ```
 
 ## 🚀 Como rodar o projeto
@@ -35,9 +34,11 @@ CREATE TABLE registros (
 ```bash
 cd backend
 npm install
+```
 
 2. Crie um arquivo .env dentro da pasta backend/ com as suas configurações:
 
+```env
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
@@ -45,10 +46,13 @@ DB_PASSWORD=sua_senha_aqui
 DB_NAME=postgres
 OPENWEATHER_API_KEY=sua_chave_api
 CITY=Patos de Minas
+```
 
 3. Inicie o servidor:
 
+```bash
 node index.js
+```
 
 O backend estará rodando em: http://localhost:3000
 
