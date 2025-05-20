@@ -74,9 +74,9 @@ A página mostrará o gráfico com os dados da máquina e será atualizada autom
 
 ## 🙋‍♂️ Autor
 
-Gustavo Teixeira Gomes
-Desenvolvedor Júnior
-github.com/GustavoTG75
+Gustavo Teixeira Gomes<br>
+Desenvolvedor Júnior<br>
+[github.com/GustavoTG75](https://github.com/GustavoTG75)
 ---
 
 ## ✅ Conclusão
