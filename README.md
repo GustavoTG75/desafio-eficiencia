@@ -77,8 +77,3 @@ A página mostrará o gráfico com os dados da máquina e será atualizada autom
 Gustavo Teixeira Gomes<br>
 Desenvolvedor Júnior<br>
 [github.com/GustavoTG75](https://github.com/GustavoTG75)
-
-## ✅ Conclusão
-
-Este projeto demonstra habilidades práticas com backend (Node.js + PostgreSQL), integração com APIs externas e visualização de dados em tempo real com frontend puro.
-Tudo isso com foco em simplicidade, organização e clareza - pronto para ser usado e avaliado com facilidade.
